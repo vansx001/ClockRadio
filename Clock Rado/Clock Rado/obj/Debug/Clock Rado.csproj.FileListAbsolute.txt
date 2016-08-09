@@ -1,0 +1,6 @@
+C:\Users\Sheng\Documents\Sheng\DevCodeCamp\C#\Clock Rado\Clock Rado\bin\Debug\Clock Rado.exe.config
+C:\Users\Sheng\Documents\Sheng\DevCodeCamp\C#\Clock Rado\Clock Rado\bin\Debug\Clock Rado.exe
+C:\Users\Sheng\Documents\Sheng\DevCodeCamp\C#\Clock Rado\Clock Rado\bin\Debug\Clock Rado.pdb
+C:\Users\Sheng\Documents\Sheng\DevCodeCamp\C#\Clock Rado\Clock Rado\obj\Debug\Clock Rado.csprojResolveAssemblyReference.cache
+C:\Users\Sheng\Documents\Sheng\DevCodeCamp\C#\Clock Rado\Clock Rado\obj\Debug\Clock Rado.exe
+C:\Users\Sheng\Documents\Sheng\DevCodeCamp\C#\Clock Rado\Clock Rado\obj\Debug\Clock Rado.pdb
